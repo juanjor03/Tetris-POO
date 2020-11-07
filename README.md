@@ -1,2 +1,2 @@
 # Tetris-POO
-Taller 2 UNAL Programación orientadoa a objetos. 
+Taller 2 UNAL Programación orientado a objetos. 
